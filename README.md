@@ -10,11 +10,11 @@
 
 ###
 
-<h3 align="center">Full Stack Web Developer</h3>
+<h2 align="center">A Passionate Full Stack Web Developer from Bangladesh</h3>
 
 ###
 
-<h2 align="center">About me</h2>
+<h1 align="center">About me</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="center">Skill Set 💪</h2>
+<h1 align="center">Skill Set 💪</h2>
 
 ###
 
@@ -90,7 +90,7 @@
 
 ###
 
-<h2 align="center">Github contribution statistics</h2>
+<h1 align="center">Github contribution statistics</h2>
 
 ###
 
@@ -105,7 +105,7 @@
 
 ###
 
-<h2 align="center">Social Media Links</h2>
+<h1 align="center">Social Media Links</h2>
 
 ###
 
