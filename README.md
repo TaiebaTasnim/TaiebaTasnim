@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="227" src="https://i.ibb.co.com/60yX5yDC/Hi-There-I-m-Taieba.png"  />
+  <img height="227" width="300" src="https://i.ibb.co.com/60yX5yDC/Hi-There-I-m-Taieba.png"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">These are some of the major technologies that I use or have worked on in the past:</p>
+<p align="center">These are some of the major technologies that I use or have worked on in the past:</p>
 
 ###
 
