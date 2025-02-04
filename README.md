@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" width="600" src="https://i.ibb.co.com/qFc5C9fz/Hi-There-I-m-Taieba-1.png" alt="banner image"  />
+  <img height="400" width="800" src="https://i.ibb.co.com/qFc5C9fz/Hi-There-I-m-Taieba-1.png" alt="banner image"  />
 </div>
 
 ###
