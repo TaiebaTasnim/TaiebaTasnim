@@ -21,8 +21,16 @@
 <p align="left">I am a Web Developer with expertise in  HTML, CSS, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB. I have a strong foundation in building dynamic and responsive web applications, ensuring both functionality and great user experience.<br><br>Currently, I am expanding my skill set by learning Next.js to enhance my ability to build full-stack applications with improved performance and SEO. I enjoy tackling challenges, writing clean and efficient code, and continuously improving my knowledge.<br><br>I believe that learning never stops, and every day is an opportunity to grow as a developer. <br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning Next.js<br>🎯 Goals: Build web applications that simplify everyday life<br>🎲 Fun fact: I like reading and learning new things</p>
 
 ###
+<h1 align='left'>Current Activities</h1>
+###
+✨ Creating bugs since 2022
+📚 I'm currently learning Next.js
+🎯 Goals: Build web applications that simplify everyday life
+🎲 Fun fact: I like reading and learning new things
 
-<h1 align="center">Skill Set 💪</h2>
+###
+
+<h1 align="center">Skill Set 💪</h1>
 
 ###
 
@@ -90,7 +98,7 @@
 
 ###
 
-<h1 align="center">Github contribution statistics</h2>
+<h1 align="center">Github contribution statistics</h1>
 
 ###
 
@@ -105,7 +113,7 @@
 
 ###
 
-<h1 align="center">Social Media Links</h2>
+<h1 align="center">Social Media Links</h1>
 
 ###
 
