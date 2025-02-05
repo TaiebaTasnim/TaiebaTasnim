@@ -28,7 +28,7 @@
 🎯 Goals: Build web applications that simplify everyday life<br>
 🎲 Fun fact: I like reading and learning new things
 
-
+###
 
 <h1 align="center">Skill Set 💪</h1>
 
