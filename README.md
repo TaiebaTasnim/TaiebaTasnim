@@ -10,11 +10,11 @@
 
 ###
 
-<h2 align="center">A Passionate Full Stack Web Developer from Bangladesh</h3>
+<h2 align="center">A Passionate Full Stack Web Developer from Bangladesh</h2>
 
 ###
 
-<h1 align="center">About me</h2>
+<h1 align="center">About me</h1>
 
 ###
 
@@ -22,11 +22,12 @@
 
 ###
 <h1 align='left'>Current Activities</h1>
-
+###
+<p align="left">
 ✨ Creating bugs since 2022 <br>
 📚 I'm currently learning Next.js<br>
 🎯 Goals: Build web applications that simplify everyday life<br>
-🎲 Fun fact: I like reading and learning new things
+🎲 Fun fact: I like reading and learning new things</p>
 
 ###
 
