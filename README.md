@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">About me</h1>
+<h1 align="left">About me</h1>
 
 ###
 
@@ -22,28 +22,28 @@
 
 ###
 <h1 align='left'>Current Activities</h1>
-###
+
 <p align="left">
 ✨ Creating bugs since 2022 <br>
 📚 I'm currently learning Next.js<br>
 🎯 Goals: Build web applications that simplify everyday life<br>
-🎲 Fun fact: I like reading and learning new things</p>
+🎲 Fun fact: I like reading and learning new things.</p>
 
 ###
 
-<h1 align="center">Skill Set 💪</h1>
+<h1 align="left">Skill Set 💪</h1>
 
 ###
 
-<p align="center">These are some of the major technologies that I use or have worked on in the past:</p>
+<p align="left">These are some of the major technologies that I use or have worked on in the past:</p>
 
 ###
 
-<h2 align="center">🖥️ Frontend Development:</h2>
+<h2 align="left">🖥️ Frontend Development:</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -55,11 +55,11 @@
 
 ###
 
-<h2 align="center">🛠️ Backend Development:</h2>
+<h2 align="left">🛠️ Backend Development:</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
@@ -69,11 +69,11 @@
 
 ###
 
-<h2 align="center">💻 Programming Languages:</h2>
+<h2 align="left">💻 Programming Languages:</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -83,11 +83,11 @@
 
 ###
 
-<h2 align="center">🛠️ Tools & IDEs:</h2>
+<h2 align="left">🛠️ Tools & IDEs:</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -99,11 +99,11 @@
 
 ###
 
-<h1 align="center">Github contribution statistics</h1>
+<h1 align="left">Github contribution statistics</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TaiebaTasnim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
  <a href="https://github.com/TaiebaTasnim">
     <img src="https://nirzak-streak-stats.vercel.app/?user=TaiebaTasnim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Streak">
@@ -114,11 +114,11 @@
 
 ###
 
-<h1 align="center">Social Media Links</h1>
+<h1 align="left">Social Media Links</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/taieba-tasnim-4a3a65337" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
