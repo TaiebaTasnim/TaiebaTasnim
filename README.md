@@ -22,13 +22,13 @@
 
 ###
 <h1 align='left'>Current Activities</h1>
-###
-✨ Creating bugs since 2022
-📚 I'm currently learning Next.js
-🎯 Goals: Build web applications that simplify everyday life
+
+✨ Creating bugs since 2022 <br>
+📚 I'm currently learning Next.js<br>
+🎯 Goals: Build web applications that simplify everyday life<br>
 🎲 Fun fact: I like reading and learning new things
 
-###
+
 
 <h1 align="center">Skill Set 💪</h1>
 
